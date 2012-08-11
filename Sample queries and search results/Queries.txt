@@ -1,0 +1,8 @@
+Non-initial use of ALE (upto 8th place)
+(>|,\s)\w{1,}\Wale|(>|,\s)\w{1,}\W\w{1,}\Wale\b|(>|,\s)\w{1,}\W\w{1,}\W\w{1,}\Wale\b|(>|,\s)\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\Wale\b|(>|,\s)\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\Wale\b|(>|,\s)\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\Wale\b|(>|,\s)\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\W\w{1,}\Wale\b
+
+Non-initial use of ALE - some different results
+<s>.{1,20}\Wale\b
+
+Non-initial use of ALE - some different results
+<s>\b.+\b\s\bale\b
