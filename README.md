@@ -14,7 +14,7 @@ The corpus consists of 24 texts in two broad genres: fiction and non-fiction. Ea
 
 This means that there are a total of 48 samples, half in Czech and half in English. The average sample length is about 2,000 tokens.
 
-Origing of the corpus
+Origins of the corpus
 ----------------------
 
 The corpus was compiled for a particular study at a time where reliable parallel corpora were not available. Since, then the Czech national corpus has made a better parallel corpus available. Still, this corpus probably can still be of use for smaller exploratory studies.
