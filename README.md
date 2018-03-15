@@ -18,3 +18,7 @@ Origins of the corpus
 ----------------------
 
 The corpus was compiled for a particular study at a time where reliable parallel corpora were not available. Since, then the Czech national corpus has made a better parallel corpus available. Still, this corpus probably can still be of use for smaller exploratory studies.
+
+Mark up
+-------------------
+The corpus was tagged for use by the [ParaConc](http://www.paraconc.com/) parallel concondancer.
